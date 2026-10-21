@@ -2,7 +2,7 @@
 
 All notable changes to this package are documented in this file.
 
-## [1.0.0] - 2026-10-21
+## [0.0.1] - 2026-10-21
 
 ### Added
 - Paint, Place, Erase, Select and Replace brush modes.

@@ -2,6 +2,8 @@
 
 Paint prefabs straight into the Scene view. Scatter forests, rocks and props in seconds, place single objects precisely, then erase, select or swap them with the same brush.
 
+> **Early development:** This package is at an early stage (v0.0.1), so you may run into bugs or rough edges. If something breaks, behaves unexpectedly or a feature is missing, please [open an issue](https://github.com/viol3/prefab-brush/issues). Your Unity version and steps to reproduce help a lot. Feedback and suggestions are very welcome.
+
 ## Features
 
 - **Five modes:** Paint, Place, Erase, Select and Replace
@@ -103,6 +105,14 @@ Selecting another transform tool (W, E, R...) also stops the brush.
 
 - Painting on meshes without colliders uses an internal Unity editor API. If it is not available in your Unity version, the window shows a warning and only colliders are painted on.
 - Painted objects go into the scene of the surface they were painted on.
+
+## Reporting Bugs
+
+Found a bug or have an idea? [Open an issue](https://github.com/viol3/prefab-brush/issues) and include:
+
+- Your Unity version and render pipeline
+- What you did, what you expected and what happened instead
+- Any errors from the Console
 
 ## Changelog
 

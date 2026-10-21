@@ -1,6 +1,6 @@
 {
   "name": "com.viol3.prefab-brush",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "displayName": "Viol3's Prefab Brush",
   "description": "Paint, place, erase, select and replace prefabs directly in the Scene view. Weighted palettes, density and spacing control, slope and height filters, surface alignment, random rotation and scale, auto grouping and full undo support.",
   "unity": "2021.3",
