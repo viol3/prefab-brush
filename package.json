@@ -4,6 +4,7 @@
   "displayName": "Viol3's Prefab Brush",
   "description": "Paint, place, erase, select and replace prefabs directly in the Scene view. Weighted palettes, density and spacing control, slope and height filters, surface alignment, random rotation and scale, auto grouping and full undo support.",
   "unity": "2021.3",
+  "license": "MIT",
   "keywords": [
     "prefab",
     "brush",
@@ -19,6 +20,7 @@
   },
   "documentationUrl": "https://github.com/viol3/prefab-brush#readme",
   "changelogUrl": "https://github.com/viol3/prefab-brush/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/viol3/prefab-brush/blob/main/LICENSE.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/viol3/prefab-brush.git"

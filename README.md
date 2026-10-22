@@ -128,3 +128,7 @@ Found a bug or have an idea? [Open an issue](https://github.com/viol3/prefab-bru
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+## License
+
+Released under the [MIT License](LICENSE.md).
