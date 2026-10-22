@@ -2,9 +2,15 @@
 
 Paint prefabs straight into the Scene view. Scatter forests, rocks and props in seconds, place single objects precisely, then erase, select or swap them with the same brush.
 
-https://github.com/user-attachments/assets/9ef3edfc-7848-4963-9f08-7af630e8470b
+**Painting on surface**
 
 https://github.com/user-attachments/assets/95d566c8-322e-4ca3-a2ff-74100c649aaa
+
+
+**Painting on sphere**
+https://github.com/user-attachments/assets/9ef3edfc-7848-4963-9f08-7af630e8470b
+
+
 
 > **Early development:** This package is at an early stage (v0.0.2), so you may run into bugs or rough edges. If something breaks, behaves unexpectedly or a feature is missing, please [open an issue](https://github.com/viol3/prefab-brush/issues). Your Unity version and steps to reproduce help a lot. Feedback and suggestions are very welcome.
 
