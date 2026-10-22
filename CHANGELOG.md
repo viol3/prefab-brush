@@ -7,6 +7,9 @@ All notable changes to this package are documented in this file.
 ### Added
 - Demo videos in the README.
 
+### Fixed
+- Painting now reaches downward-facing surfaces such as the underside of a sphere. The slope filter goes from 0 to 180 degrees (0 = floor, 90 = wall, 180 = ceiling) instead of stopping at 90.
+
 ## [0.0.1] - 2026-10-21
 
 ### Added
