@@ -2,6 +2,11 @@
 
 All notable changes to this package are documented in this file.
 
+## [0.0.2] - 2026-10-22
+
+### Added
+- Demo videos in the README.
+
 ## [0.0.1] - 2026-10-21
 
 ### Added

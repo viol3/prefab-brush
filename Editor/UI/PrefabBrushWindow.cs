@@ -564,7 +564,7 @@ namespace Viol3.PrefabBrush.UI
                 EditorGUILayout.PropertyField(serializedProfile.FindProperty(nameof(BrushProfile.surfaceLayers)), new GUIContent("Layers"));
                 EditorGUILayout.PropertyField(serializedProfile.FindProperty(nameof(BrushProfile.ignorePaintedObjects)),
                     new GUIContent("Ignore Painted", "Don't paint on top of prefabs from this palette."));
-                MinMax(nameof(BrushProfile.slopeRange), 0f, 90f, "Slope", "Only paint where the surface angle (in degrees) is within this range.");
+                MinMax(nameof(BrushProfile.slopeRange), 0f, 180f, "Slope", "Only paint where the surface angle (in degrees) is within this range. 0 = floor, 90 = wall, 180 = ceiling.");
 
                 SerializedProperty useHeight = serializedProfile.FindProperty(nameof(BrushProfile.useHeightRange));
                 EditorGUILayout.PropertyField(useHeight, new GUIContent("Height Filter", "Only paint between these world heights."));

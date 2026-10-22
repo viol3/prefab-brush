@@ -39,7 +39,7 @@ namespace Viol3.PrefabBrush
         public SurfaceMode surfaceMode;
         public LayerMask surfaceLayers = ~0;
         public bool ignorePaintedObjects = true;
-        public Vector2 slopeRange = new Vector2(0f, 90f);
+        public Vector2 slopeRange = new Vector2(0f, 180f);
         public bool useHeightRange;
         public Vector2 heightRange = new Vector2(-100f, 100f);
 

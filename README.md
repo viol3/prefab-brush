@@ -8,7 +8,7 @@ Paint prefabs straight into the Scene view. Scatter forests, rocks and props in 
 
 If the videos don't play above, watch them here: [demo 1](Documentation~/prefabbrush.mp4) · [demo 2](Documentation~/prefabbrush2.mp4)
 
-> **Early development:** This package is at an early stage (v0.0.1), so you may run into bugs or rough edges. If something breaks, behaves unexpectedly or a feature is missing, please [open an issue](https://github.com/viol3/prefab-brush/issues). Your Unity version and steps to reproduce help a lot. Feedback and suggestions are very welcome.
+> **Early development:** This package is at an early stage (v0.0.2), so you may run into bugs or rough edges. If something breaks, behaves unexpectedly or a feature is missing, please [open an issue](https://github.com/viol3/prefab-brush/issues). Your Unity version and steps to reproduce help a lot. Feedback and suggestions are very welcome.
 
 ## Features
 
